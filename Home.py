@@ -30,6 +30,6 @@ st.markdown(
         - Acompanhamento dos indicadores semanais de crescimento
     - Visão Restaurantes:
         - Indicadores semanais de crescimento dos restaurantes
-    ### Ask for Help
-        - jwebsys@gmail.com
+    ## Ask for Help
+        - Comunidade DS / jwebsys@gmail.com
     """ )
